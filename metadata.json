@@ -1,0 +1,5 @@
+{
+  "name": "工程計算機 Pro",
+  "description": "包含基本運算與科學函數的工程計算機，並內建 Gemini AI 智慧解題功能。",
+  "requestFramePermissions": []
+}
